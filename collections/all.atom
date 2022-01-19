@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://crateclamp.top/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://crateclamp.top/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://crateclamp.top/collections/all.atom"/>
+  <title>CrateClamp.top</title>
+  <updated>2021-05-20T15:28:58+05:00</updated>
+  <author>
+    <name>CrateClamp.top</name>
+  </author>
+  <entry>
+    <id>https://crateclamp.top/products/6760742715559</id>
+    <published>2021-05-20T15:28:58+05:00</published>
+    <updated>2021-05-20T15:28:58+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://crateclamp.top/products/transparent-fixing-clamp-supporter"/>
+    <title>Cable Fixing Clamp</title>
+    <s:type>Calamp</s:type>
+    <s:vendor>CrateClamp.top</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.crateclamp.top/s/files/1/0565/1965/5591/products/product-image-1663214666.jpg?v=1621506541"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CrateClamp.top<br>
+        <strong>Type: </strong>Calamp<br>
+        <strong>Price: </strong>
+            9.99 - 24.99
+            <a href="https://crateclamp.top/products/transparent-fixing-clamp-supporter">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Plastic<br><strong>Package:</strong> Yes<br><strong>Shape:</strong> as shown<br><strong>Size:</strong> as shown<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cable Calamp</s:tag>
+    <s:tag>Calamp</s:tag>
+    <s:variant>
+      <id>https://crateclamp.top/products/6760742715559</id>
+      <title>20pc / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42824099-20pc-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crateclamp.top/products/6760742715559</id>
+      <title>100pc / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>42824099-100pc-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crateclamp.top/products/6760742715559</id>
+      <title>60pc / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>42824099-60pc-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crateclamp.top/products/6760742715559</id>
+      <title>200pc / United States</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>42824099-200pc-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
